@@ -1,0 +1,1 @@
+NonZerros = np.nonzero(Z)
